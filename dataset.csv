@@ -1,0 +1,6 @@
+Patient ID,Series Instance UID,FBP Reconstruction Kernel,Original Slice Thickness,Original Slice Order,Observer,Subset
+1,scan_1,B30F,2.0,head-to-feet,B,training
+2,scan_2,B80F,3.0,feet-to-head,A,training
+3,scan_3,BONE,1.0,head-to-feet,C,validation
+4,scan_4,B50F,2.0,head-to-feet,B,testing
+5,scan_5,B30F,2.0,feet-to-head,A,tresting

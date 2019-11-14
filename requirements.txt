@@ -1,0 +1,11 @@
+cython
+numpy>=1.15.1
+scipy>=1.1.0
+jupyter==1.0.0
+simpleitk==1.1.0
+theano==0.9.0
+https://github.com/Lasagne/Lasagne/archive/a61b76fd991f84c50acdb7bea02118899b5fefe1.zip
+visdom==0.1.8.5
+pyhamcrest==1.9.0
+scikit-image
+tqdm
