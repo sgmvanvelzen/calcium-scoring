@@ -36,7 +36,7 @@ USER user
 COPY --chown=user *.ipynb /home/user/
 COPY --chown=user static_figures/ /home/user/static_figures/
 COPY --chown=user src/ /home/user/src/
-COPY --chown=user processor/theanorc.txt /home/user/.theanorc
+COPY --chown=user theanorc.txt /home/user/.theanorc
 
 # Define entry point
 WORKDIR /home/user
