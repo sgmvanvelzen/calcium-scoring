@@ -24,7 +24,7 @@ RUN wget --quiet https://repo.anaconda.com/miniconda/Miniconda3-4.5.11-Linux-x86
 
 
 # Install dependencies (python packages)
-RUN conda install conda=4.5.11=py37_0 python=3.7.0  mkl-service=1.1.2=py37h90e4bf4_5  jupyter=1.0.0=py37_7
+RUN conda install conda=4.5.11=py36_0 python=3.6.6  mkl-service=1.1.2  jupyter=1.0.0
 COPY requirements.txt /tmp/requirements.txt
 RUN pip install -r /tmp/requirements.txt
 
