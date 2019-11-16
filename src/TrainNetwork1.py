@@ -36,7 +36,7 @@ config = {
 parser = ArgumentParser()
 parser.add_argument('--inputdir', default='/home/user/input')
 parser.add_argument('--scratchdir', default='/home/user/scratch')
-parser.add_argument('--visdom')
+parser.add_argument('--visdom', default=None)
 parser.add_argument('--kernels', default='all')  # soft/sharp
 
 # ----------------------------------------------------------------------------------------------------------------------
