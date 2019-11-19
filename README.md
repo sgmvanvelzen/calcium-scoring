@@ -32,3 +32,9 @@ Steps required to train and test the method:
 * S.G.M. van Velzen, N. Lessmann, B.K. Velthuis, I.E.M. Bank, D.H.J.G. van den Bongard, T. Leiner, P.A. de Jong,
     W.B. Veldhuis, A. Correa, J.G. Terry, J.J. Carr, M.A. Viergever, H.M. Verkooijen, I. Išgum.
     Deep learning for automatic calcium scoring in CT: Validation using multiple Cardiac CT and Chest CT protocols. Submitted to Radiology.
+
+## License
+
+GNU General Public License v3.0+ (see LICENSE file or https://www.gnu.org/licenses/gpl-3.0.txt for full text)
+
+Copyright 2019, University Medical Center Utrecht
