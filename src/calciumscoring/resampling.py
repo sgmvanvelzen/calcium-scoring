@@ -1,3 +1,6 @@
+# Copyright: (c) 2019, University Medical Center Utrecht 
+# GNU General Public License v3.0+ (see LICNSE or https://www.gnu.org/licenses/gpl-3.0.txt)
+
 from __future__ import division
 
 import warnings
